@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Posts"
-  url = "#posts"
+  url = "https://amy-r.com/post/"
   weight = 20
 
 [[main]]
