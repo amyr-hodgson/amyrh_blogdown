@@ -18,4 +18,12 @@ image:
 projects: []
 ---
 
-I decided recently that it might be a good idea to have a website. I didn't really know anything about how to make a website, or the technologies that are involved, but I did know how to use R Markdown. This was fortunate, as there is an R package called **blogdown** which allows you to create blogs and websites based on R Markdown documents. 
+I decided recently that it might be a good idea to have a website. I didn't really know anything about how to make a website, or the technologies that are involved, but I did know how to use [R Markdown](https://rmarkdown.rstudio.com/). This was fortunate, as there is an R package called **blogdown** which allows you to create blogs and websites based on R Markdown documents. The package was written by Yihui Xie, who is also the author of bookdown and knitr, among others. 
+
+The best part is that there is a [book](https://bookdown.org/yihui/blogdown/) which explains both the benefit of using this method of setting up a website, and a guide for how to do so. One of the main advantages from my perspective is that the posts are based on R Markdown pages, so it is easy to include R code, analysis, and visualisations in your posts, and you can later convert these documents to pdfs- essentially the advantages of R Markdown in general. Also, it is completely free, unless you choose to buy a domain name.
+
+Blogdown works with Hugo, which is a static site generator. There are many Hugo themes that are available, and a handful that are recommended in the blogdown book for compatibility with blogdown. I chose the [Academic](https://sourcethemes.com/academic/) theme, which I think looks pretty good and allows a fair amount of customisation with little effort. Knowledge of HTML and CSS is not necessary to set up a website using this method, but it would be advantageous, especially if you want to customise the appearance of your site in a more specific way. 
+
+If you are like me and have familiarity with R but not with HTML, CSS etc, you may find that using blogdown suits you. It does take some time in the beginning to set things up and understand how it all works, especially if you have never made a website before, but hopefully the advantages should be worth it. My site is set up for continuous deployment from Github, which seems to be the best way of doing it, so the ability to use git/Github would be helpful if you want to make a website this way. However there are other methods for deploying the site, which are explained in the blogdown book. 
+
+If you want to see the code for my website, it's all there in the [github repository](https://github.com/amyr-hodgson/amyrh_blogdown), and if you have questions about how I set up the website, feel free to ask. :cat:
