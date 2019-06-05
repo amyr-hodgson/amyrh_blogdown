@@ -1,0 +1,21 @@
+---
+title: How did I make this website?
+author: 'Amy Hodgson'
+date: '2019-06-05'
+slug: how-did-make-website
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-06-05T18:37:05+01:00'
+featured: no
+draft: true
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I decided recently that it might be a good idea to have a website. I didn't really know anything about how to make a website, or the technologies that are involved, but I did know how to use R Markdown. This was fortunate, as there is an R package called **blogdown** which allows you to create blogs and websites based on R Markdown documents. 

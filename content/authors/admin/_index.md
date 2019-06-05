@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: ..
+bio: 
 education:
   courses:
   - course: MSc (Research) Neuroscience
@@ -10,7 +10,7 @@ education:
   - course: MA Psychology
     institution: University of Glasgow
     year: 2017
-email: ""
+email: "amyhodgson777@gmail.com"
 interests:
 - Behavioural Neuroscience
 - Mental Health
@@ -23,7 +23,7 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:amyhodgson777@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/amyr_hodgson

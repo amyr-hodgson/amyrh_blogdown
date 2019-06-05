@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>How did I make this website?</title>
+      <link>/post/how-did-make-website/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-did-make-website/</guid>
+      <description>I decided recently that it might be a good idea to have a website. I didn’t really know anything about how to make a website, or the technologies that are involved, but I did know how to use R Markdown. This was fortunate, as there is an R package called blogdown which allows you to create blogs and websites based on R Markdown documents.</description>
+    </item>
+    
+    <item>
       <title>test1</title>
       <link>/post/test1/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
